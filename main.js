@@ -1,4 +1,4 @@
-import { html, render } from '/vendor/htm.js';
+import { html, render } from '/vendor/html.js';
 import { App } from '/components/App.js';
 
 render(
